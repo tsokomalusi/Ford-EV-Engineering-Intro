@@ -1,6 +1,6 @@
 # Ford-EV-Engineering-Intro
 
-# Task One: Visualizing battery capacity
+# Task one: Visualizing battery capacity
 ## Task one content
 * The relationship between battery chemistry and capacity.
 * Data analysis and visualization using Excel
