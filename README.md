@@ -7,3 +7,4 @@
 ## Task one objectives
 * Analyze the provided data to assess battery capacity for three distinct battery chemistries.
 * Create Excel charts to visualize the data.
+* # Task two: Tuning a PID controller
