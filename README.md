@@ -5,7 +5,7 @@
 * The relationship between battery chemistry and capacity.
 * Data analysis and visualization using Excel
 ## Task one objectives
-* Analyze the provided data to assess battery capacity for three distinct battery chemistries.
+* Analysis of the provided data to assess battery capacity for three distinct battery chemistries.
 * Create Excel charts to visualize the data.
 # Task two: Tuning a PID controller
 ## Task two content
