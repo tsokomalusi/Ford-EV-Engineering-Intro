@@ -1,0 +1,17 @@
+==============================================[Examining PID controller values]===========================================================================
+
+Velocity-based control
+-----------------------
+
+For velocity based example the PID controller values are static and pre-determined. This approach may
+strongly depend on the application/system because every process behaves uniquely and may also require a good experience and knowledge about the system.
+As depicted in the code the difference between the setpoint and current 
+output is too small. Since there is no corrective action implemented to eliminate this error(difference), we can assume system has been finely tuned for best results or can be improved by implementing error correction techniques.
+
+Position-based control
+-----------------------
+
+For position based PID controller, the tuning of the PID controller parameters is done automatically using
+a software algorithm. This process is more precise compared to the use of static values. Since this is an iterative process, the gains of the proportional,
+integral, and derivative terms are constantly updated until the controller operates as desired.
+Depending on the specific application and system, the desired behavior might be fast response, minimal overshoot, or even steady-state accuracy.
