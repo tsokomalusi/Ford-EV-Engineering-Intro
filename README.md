@@ -1,6 +1,5 @@
 # Ford-EV-Engineering-Intro
 
-
 # Task one: Visualizing battery capacity
 ## Task one content
 * The relationship between battery chemistry and capacity.
@@ -12,6 +11,10 @@
 Data displaying battery capacity over time for three distinct battery chemistries.
 
 ![battery-data](https://github.com/user-attachments/assets/31e56560-7149-4b50-ae36-8525b918ece2)
+
+A chart that displays the battery capacities for each material over time.
+
+![excel-chart](https://github.com/user-attachments/assets/c5cbcf48-ce80-41b7-b1b9-05c53f0f8ae9)
 
 # Task two: Tuning a PID controller
 ## Task two content
