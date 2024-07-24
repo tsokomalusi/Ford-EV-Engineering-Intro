@@ -4,7 +4,7 @@
 This task covers the following:
 * The relationship between battery chemistry and capacity.
 * Data analysis and visualization using Excel
-## Task Objectives:
+## Task Objectives
 * Analysis of the provided data to assess battery capacity for three distinct battery chemistries.
 * Create Excel charts to visualize the data.
   
@@ -17,9 +17,9 @@ A chart that displays the battery capacities for each material over time.
 ![excel-chart](https://github.com/user-attachments/assets/c5cbcf48-ce80-41b7-b1b9-05c53f0f8ae9)
 
 # Task two: Tuning a PID controller
-## Task two content
+What is covered in this task:
 * Principles of PID control in robotics
 * Significance of PID controller tuning
-## Task two objectives
+## Task objectives
 * Review of a given python code for PID controller and then examine a scenario where the values are iteratively updated.
 * A written summary explaining how these updates will impact the control of the robot.
