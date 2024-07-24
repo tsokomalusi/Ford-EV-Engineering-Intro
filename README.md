@@ -7,6 +7,7 @@ This task covers the following:
 ## Task Objectives
 * Analysis of the provided data to assess battery capacity for three distinct battery chemistries.
 * Create Excel charts to visualize the data.
+_____________________________________________________________________________________________________________________________________________________________
   
 Data displaying battery capacity over time for three distinct battery chemistries.
 
