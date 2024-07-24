@@ -13,6 +13,8 @@ Data displaying battery capacity over time for three distinct battery chemistrie
 
 ![battery-data](https://github.com/user-attachments/assets/31e56560-7149-4b50-ae36-8525b918ece2)
 
+____________________________________________________________________________________________________________________________________________________________
+
 A chart that displays the battery capacities for each material over time.
 
 ![excel-chart](https://github.com/user-attachments/assets/c5cbcf48-ce80-41b7-b1b9-05c53f0f8ae9)
