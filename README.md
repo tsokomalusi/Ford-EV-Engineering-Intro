@@ -1,7 +1,7 @@
 # Ford-EV-Engineering-Intro
 
 # Task one: Visualizing battery capacity
-This task covers the following:
+Contents of the task:
 * The relationship between battery chemistry and capacity.
 * Data analysis and visualization using Excel
 ## Task Objectives
@@ -20,7 +20,7 @@ A chart that displays the battery capacities for each material over time.
 ![excel-chart](https://github.com/user-attachments/assets/c5cbcf48-ce80-41b7-b1b9-05c53f0f8ae9)
 
 # Task two: Tuning a PID controller
-What is covered in this task:
+Contents of the task:
 * Principles of PID control in robotics
 * Significance of PID controller tuning
 ## Task objectives
